@@ -1,7 +1,10 @@
 public class first
 {
+	// A program using variables in java
 	public static void main(String args[])
 	{
-		System.out.println("First program");
+		int x = 10;
+		System.out.println(x);
+		System.out.println(x+10);
 	}
 }
